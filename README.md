@@ -1,4 +1,4 @@
-# 🦖 Neuroevolution-self-driving-AI-example
+# 🤖 Neuroevolution-self-driving-AI-example
 Neuroevolution made with Python Neat. Self learning about how to drive a given road.
 
 # Description
